@@ -13,9 +13,11 @@ See Demo Here: [https://qr-code-template-two.vercel.app/](https://qr-code-templa
 
 ## Screenshot
 
-### Desktop 
+### Desktop
 
 ![Desktop Design](./design/desktop-design.jpg)
+
+## Mobile
 ![Mobile Design](./design/mobile-design.jpg)
 
 ## Solution
