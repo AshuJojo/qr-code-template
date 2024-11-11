@@ -39,6 +39,10 @@ body {
     border-radius: 10px;
 }
 
+.card-content{
+    padding: 1rem;
+}
+
 .card-content>h1 {
     color: var(--color-slate-900);
     line-height: 120%;
@@ -48,7 +52,7 @@ body {
 }
 
 .card-content>p {
-    color: var(--color-slate-900);
+    color: var(--color-slate-500);
     line-height: 140%;
     letter-spacing: 0.2px;
     font-size: 15px;
