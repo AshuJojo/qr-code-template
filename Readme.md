@@ -7,6 +7,10 @@ This is a frontend challeng from [Frontend Mentor](https://www.frontendmentor.io
 ## Problem Statement
 I need to make a QR Code component from vanilla HTML, CSS using Figma Design.
 
+## Demo 
+
+See Demo Here: [https://qr-code-template-two.vercel.app/](https://qr-code-template-two.vercel.app/)
+
 ## Screenshot
 
 ### Desktop 
